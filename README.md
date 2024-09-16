@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arjunsriram-pm
-- 👀 I’m interested in ...launching products for customers
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ...launching products for customers that'd scale for a billion users which I did in the past and continue to have fun in the same
+- 🌱 I’m currently learning ...technical aspects of product management like system designing, architechture etc..
 - 💞️ I’m looking to collaborate on ...product manager, system design leaders etc
 - 📫 How to reach me ...arjunkrishnasriram@gmail.com
 - 😄 Pronouns: ...
